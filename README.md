@@ -6,3 +6,6 @@ Name | Link
 ------------ | -------------
 Read 1 | [LinkRead1](https://samehmasri.github.io/readingNotes_Code301/read1)
 Read 2 | [LinkRead2](https://samehmasri.github.io/readingNotes_Code301/read2)
+Read 3 | [LinkRead3](https://samehmasri.github.io/readingNotes_Code301/read3)
+Read 4 | [LinkRead4](https://samehmasri.github.io/readingNotes_Code301/read4)
+Read 5 | [LinkRead5](https://samehmasri.github.io/readingNotes_Code301/read5)
